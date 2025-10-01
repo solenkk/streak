@@ -7,6 +7,6 @@ urlpatterns = [
     path('product/',veiws.product),
     path('coustomer/',veiws.coustomer)
     path()
-]
+] 
 #we need to talk about this path and urls later on
  
