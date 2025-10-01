@@ -10,3 +10,4 @@ def product(request):
 def coustomer(request):
     return HttpResponse('this coustumer service')
 # Create your views here.
+#also about some views
