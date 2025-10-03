@@ -9,4 +9,4 @@ urlpatterns = [
     path()
 ] 
 #we need to talk about this path and urls later on tgis
- 
+ cv
