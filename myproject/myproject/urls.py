@@ -25,3 +25,4 @@ urlpatterns = [
     path('' ,include('accounts.urls')), 
     path()
 ]
+ 
