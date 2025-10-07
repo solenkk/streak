@@ -22,6 +22,6 @@ def home(request):
     return HttpResponse('home page')
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('' ,include('accounts.urls')),
+    path('' ,include('accounts.urls')), 
     path()
 ]
